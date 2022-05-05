@@ -10,4 +10,4 @@
 
 **Mes Stats :**
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Eragon941&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Eragon941&show_icons=true#GH-DARK-MODE-ONLY)
