@@ -10,4 +10,4 @@ Eragon941 => {
 
 [![img_contact](./img/globe-dark.svg)](https://discord.gg/wuADMfvx3c)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
