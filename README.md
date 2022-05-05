@@ -6,7 +6,7 @@
 
 **Me contacter :**
 
-[![img_contact](./img/globe-dark.svg)](Eragon941.github.io)
+[![img_contact](./img/globe-dark.svg)](http://eragon941.github.io/)
 
 **Mes Stats :**
 
