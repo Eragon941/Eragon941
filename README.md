@@ -10,10 +10,4 @@
 
 **Mes langages :**
 
-[![img_html](./img/html.jpeg)]
-
-[![img_html](./img/css.jpeg)]
-
-[![img_html](./img/js.jpeg)]
-
-[![img_html](./img/cs.jpeg)]
+<img align="left" alt="AWS" widht="25px" src="./img/html.jpeg">
