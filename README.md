@@ -8,6 +8,6 @@
 
 [![img_contact](./img/globe-dark.svg)](https://discord.gg/wuADMfvx3c)
 
-**Mes langages :**
+**Mes Stats :**
 
-<img align="left" alt="AWS" widht="25px" src="./img/html.jpeg" style="padding-right:11px;" size="5%">
+![GHstats](https://github-readme-stats.vercel.app/api?username=Eragon941&show_icons=true)
