@@ -8,4 +8,4 @@ Eragon941 => {
 
 }
 
-[![img_contact](./img/contact)](https://discord.gg/wuADMfvx3c)
+[![img_contact](./img/contact.jpeg)](https://discord.gg/wuADMfvx3c)
