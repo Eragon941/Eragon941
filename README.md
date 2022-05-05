@@ -7,3 +7,6 @@ Eragon941 => {
 >   🫧 Je travaille sous macOS montery avec visual studio & visual studio code
 
 }
+
+#GL-LIGHT-MODE-ONLY
+#GL-DARK-MODE-ONLY
