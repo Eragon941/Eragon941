@@ -8,3 +8,12 @@
 
 [![img_contact](./img/globe-dark.svg)](https://discord.gg/wuADMfvx3c)
 
+**Mes langages :**
+
+[![img_html](./img/html.jpeg)]
+
+[![img_html](./img/css.jpeg)]
+
+[![img_html](./img/js.jpeg)]
+
+[![img_html](./img/cs.jpeg)]
