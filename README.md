@@ -8,5 +8,4 @@ Eragon941 => {
 
 }
 
-#GL-LIGHT-MODE-ONLY
-#GL-DARK-MODE-ONLY
+[![img_contact](./img/contact)](https://discord.gg/wuADMfvx3c)
