@@ -10,4 +10,4 @@
 
 **Mes langages :**
 
-<img align="left" alt="AWS" widht="5px" src="./img/html.jpeg">
+<img align="left" alt="AWS" widht="5px" src="./img/html.jpeg" size="5px">
