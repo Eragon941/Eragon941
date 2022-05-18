@@ -1,7 +1,7 @@
 ### Bonjour tout le monde ! 👋
 
->   💻 Développeur Java Script / HTML & CSS / C# / Learn C...
->   🪙 Mon projet actuel est Read Dev (bot discord) et ephemere music (site bientôt dispo)
+>   💻 Développeur Java Script / HTML & CSS / C# / Learn Py...
+>   🪙 Mon projet actuel est Read Dev (bot discord) et relaxe music (site dispo)
 >   🫧 Je travaille sous macOS montery avec visual studio & visual studio code
 
 **Me contacter :**
