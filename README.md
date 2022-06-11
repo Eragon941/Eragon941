@@ -1,15 +1,31 @@
-### Bonjour tout le monde ! 👋
+<h1 align="center">Hi 👋, I'm Eragon941 !</h1>
+<h3 align="center">Front-end developper since 1 year !</h3>
 
-Développeur principalement Java Script (deviens chaque jour meilleur dans ce langage) & HTML, CSS.
+- 🔭 I’m currently working on [Relaxe](https://relaxe.go.yj.fr)
 
-**Me contacter :**
+- 🌱 I’m currently learning **TypeScript advanced**
 
-[![img_contact](./img/globe-dark.svg)](http://eragon941.github.io/)
+- 👯 My other project is [JFacile](https://www.npmjs.com/package/jfacile)
 
-**Mes outils :**
+- 🤝 I’m looking for help with [Read Dev](https://github.com/Eragon941/Read-Dev)
 
-[![img_contact](./img/vsc.svg)](http://eragon941.github.io/)
+- 👨‍💻 All of my projects are available at [https://Eragon941.github.io](https://Eragon941.github.io)
 
-**Mes Stats :**
+- 📝 I love read different book for example [Eragon & Merlin](Eragon & Merlin)
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=Eragon941&show_icons=true#gh-dark-mode-only)
+- 💬 Ask me about **javascript, webdesign and html, css**
+
+- 📫 How to reach me **Eragon941@outlook.fr**
+
+- 📄 Know about my experiences [I beginn in dev in autodidacte and I want become freelance !](I beginn in dev in autodidacte and I want become freelance !)
+
+- ⚡ Fun fact **Je suis français ;)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/ABadyvrExk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ABadyvrExk" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
