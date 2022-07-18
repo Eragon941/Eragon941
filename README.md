@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://mcodefr.github.io](https://mcodefr.github.io)
 
-- 📝 I love read different book for example [Eragon & Merlin](Eragon & Merlin)
+- 📝 I love read different book for example [Eragon & Merlin]
 
 - 💬 Ask me about **javascript, webdesign and html, css**
 
 - 📫 How to reach me **Eragon941@outlook.fr**
 
-- 📄 Know about my experiences [I beginn in dev in autodidacte and I want become freelance !](I beginn in dev in autodidacte and I want become freelance !)
+- 📄 Know about my experiences [I beginn in dev in autodidacte and I want become freelance !]
 
 - ⚡ Fun fact **Je suis français ;)**
 
