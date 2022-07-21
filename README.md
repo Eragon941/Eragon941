@@ -32,10 +32,8 @@
 
  # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
  ## 1. GitHub Stats
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MCodeFr&show_icons=true)
  ## 4. Random Joke Generator
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  ## 5. Profile View Counter
  ![Profile View Counter](https://komarev.com/ghpvc/?username=MCodeFr)
- ### Repository View Counter - HITS
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MCodeFr/JFacile)
