@@ -35,5 +35,3 @@
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MCodeFr&show_icons=true)
  ## 4. Random Joke Generator
  ![Jokes Card](https://readme-jokes.vercel.app/api)
- ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=MCodeFr)
