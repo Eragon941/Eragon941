@@ -1,5 +1,5 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MCodeFr)
-<h1 align="center">Hi 👋, I'm MCodeFr</h1>
+<h1 align="center">Hi 👋, I'm Maël</h1>
 <h3 align="center">Front-end developper since 1 year !</h3>
 
 - 🔭 I’m currently working on [Relaxe](https://relaxe.go.yj.fr)
@@ -8,9 +8,9 @@
 
 - 👯 My other project is [JFacile](https://www.npmjs.com/package/jfacile)
 
-- 🤝 I’m looking for help with [Read Dev](https://github.com/Eragon941/Read-Dev)
+- 🤝 I’m looking for help with [Read Dev](https://github.com/Mael/Read-Dev)
 
-- 👨‍💻 All of my projects are available at [https://mcodefr.github.io](https://mcodefr.github.io)
+- 👨‍💻 All of my projects are available at [https://maeldev.fr](https://maeldev.fr)
 
 - 📝 I love read different book for example [Eragon & Merlin]
 
