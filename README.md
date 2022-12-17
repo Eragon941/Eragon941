@@ -36,10 +36,8 @@ You are in my github profil *( but I think you know that... )*
 <br />
 
 ### My lasts articles :
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+- [Introduct to GoLang](https://maeldev.fr/assets/articles/introduction-%C3%A0-golang)
+- [What's the difference beetween a front and a back developper](https://maeldev.fr/assets/articles/front-ou-back-end)
 <br />
 
 Go on my website :
