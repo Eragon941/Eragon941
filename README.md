@@ -36,8 +36,8 @@ You are in my github profil *( but I think you know that... )*
 <br />
 
 ### My lasts articles :
+- [A true developper](https://maeldev.fr/assets/articles/un-vrai-dev)
 - [My transition on linux](https://maeldev.fr/assets/articles/transition-linux)
-- [Introduct to GoLang](https://maeldev.fr/assets/articles/introduction-%C3%A0-golang)
 <br />
 
 Go on my website :
