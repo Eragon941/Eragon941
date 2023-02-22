@@ -2,9 +2,9 @@
 
 You are in my github profil *( but I think you know that... )*
 
-- 🔥 I'm a junior developper.
-- 🔖 I work for my personal project.
-
+- 🔥 I'm a junior developper. ( front-end since 2years and back-end since 1 year )
+- 🔖 I work for my personal project. ( JFacile )
+ 
 ### My Programming language & Frameworks :
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
