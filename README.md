@@ -36,8 +36,7 @@ You are in my github profil *( but I think you know that... )*
 <br />
 
 ### My lasts articles :
-- [A true developper](https://maeldev.fr/assets/articles/un-vrai-dev)
-- [My transition on linux](https://maeldev.fr/assets/articles/transition-linux)
+Blog under competition
 <br />
 
 Go on my website :
