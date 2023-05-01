@@ -3,7 +3,7 @@
 You are in my github profil *( but I think you know that... )*
 
 - 🔥 I'm a junior developper. ( front-end since 2years and back-end since 1 year )
-- 🔖 I work for my personal project. ( JFacile )
+- 🔖 I work for my personal project. ( JFacile, Creative Blogger )
  
 ### My Programming language & Frameworks :
 
