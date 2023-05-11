@@ -38,7 +38,7 @@ You are in my github profil *( but I think you know that... )*
 <br />
 
 ### My lasts articles :
-Blog under competition
+creativeblogger.org | Go to te website !
 <br />
 
 Go on my website :
